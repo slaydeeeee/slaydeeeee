@@ -14,7 +14,7 @@
 
 ## ❯ about
 
-- 🔭 currently working on **a project I like**
+- 🔭 currently working on **a Roblox game**
 - 🦀 writing **a lot of Rust** lately
 - 🌱 learning **a lot of things**
 - 🎨 tinkering with my terminal, Blender and Roblox Studio
@@ -42,10 +42,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaddiim&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaddiim&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9" />
+<img width="495" src="https://github-readme-stats.vercel.app/api?username=vaddiim&show_icons=true&hide_border=true&hide_rank=true&card_width=495&custom_title=slayde%27s%20GitHub%20stats&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaddiim&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b8b" />
+<img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=vaddiim&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b8b" />
 
 </div>
 
