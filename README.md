@@ -53,8 +53,7 @@
 ```text
  ❯ ls projects/
 
-   project-name      short description of what it does
-   another-project   another description
+   roblox-game      currently working on it
 ```
 
 > Your pinned repositories show up right under this README: pin them from "Customize your pins" on GitHub.
