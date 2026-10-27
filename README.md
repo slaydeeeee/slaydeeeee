@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="assets/slayde-fastfetch-v4.svg" alt="slayde, fastfetch" width="860" />
+<img src="assets/slayde-fastfetch-v5.svg" alt="slayde, fastfetch" width="860" />
 
 </div>
 
