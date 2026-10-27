@@ -14,11 +14,10 @@
 
 ## ❯ about
 
-- 🔭 currently working on **a Roblox game**
-- 🦀 writing **a lot of Rust** lately
-- 🌱 learning **a lot of things**
-- 🎨 tinkering with my terminal, Blender and Roblox Studio
-- 💬 ask me about **code, 3D, games**
+- writing **a lot of Rust** lately
+- learning **a lot of things**
+- tinkering with my terminal, Blender and Roblox Studio
+- ask me about **code, 3D, games**
 
 ## ❯ stack
 
